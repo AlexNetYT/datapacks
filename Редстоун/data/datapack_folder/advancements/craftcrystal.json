@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "datapack_folder:craftcrystal"
+            }
+        }
+    },
+    "rewards": {
+        "function": "datapack_folder:craftcrystal"
+    }
+}
